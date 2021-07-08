@@ -1,3 +1,5 @@
-# hello-world
-First Hello World repository
-Add a new line
+# IT Fundamentals
+- Yi Min Huang
+- 110358437
+- HUAYY107@mymail.unisa.edu.au
+- Kismet humanoid robot
